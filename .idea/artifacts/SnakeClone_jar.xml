@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SnakeClone:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SnakeClone_jar</output-path>
+    <root id="archive" name="SnakeClone.jar">
+      <element id="module-output" name="SnakeClone" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/h2-2.3.232.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
